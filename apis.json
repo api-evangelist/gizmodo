@@ -1,0 +1,91 @@
+{
+    "name": "Gizmodo",
+    "description": "<p>Gizmodo (\/\u0261\u026az\u02c8mo\u028ado\u028a\/ giz-MOH-doh) is a design, technology, science and science fiction website that also features articles on politics. It was originally launched as part of the Gawker Media network run by Nick Denton, and runs on the Kinja platform. Gizmodo also includes the subsite io9, which focuses on science fiction and futurism.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20676-gizmodo-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gizmodo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gizmodo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20676-gizmodo-com.jpg",
+            "humanURL": "https:\/\/gizmodo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gizmodo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gizmodo"
+        },
+        {
+            "type": "Email",
+            "url": "tips@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "tipbox@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "kelly.bourdet@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "maguilar@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "andrew.couts@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "rob@io9.com"
+        },
+        {
+            "type": "Email",
+            "url": "marina.galperina@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "harrison.weber@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "hudson.hongo@gizmodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "jennings.brown@gizmodo.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/gizmodo.com\/cern-has-released-300-terabytes-of-collider-data-to-the-1772642139"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gizmodo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Gizmodo"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gizmodo.com"
+        }
+    ]
+}
